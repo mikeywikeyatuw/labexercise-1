@@ -1,10 +1,6 @@
 # INFO 201 Lab 1
 
-### Instructor
-Name: **Thomas**  
-*yee*
+### What I hope to Learn in INFO 201
 
-### TA
-- P
-- Y
-- Y
+- **R**  
+I am interested in learning *another* programming language and R sounds like a fun language after Python.
